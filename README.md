@@ -13,6 +13,7 @@ I'm basically a nerd who loves videogames, comics/manga, anime, board games and 
 ![git](https://user-images.githubusercontent.com/43990877/215758384-e534f342-bd51-4a92-8bac-9d9b914360f7.png)
 
 # My repositories
-[LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
+Some of the repository below may be private at the moment. All of the repo are under the MIT license.
+> [LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
 
-[LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
+> [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
