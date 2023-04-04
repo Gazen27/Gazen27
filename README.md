@@ -11,3 +11,8 @@ I'm basically a nerd who loves videogames, comics/manga, anime, board games and 
 # DBMS & Tools
 ![postgresql](https://user-images.githubusercontent.com/43990877/213594344-2d9d8ec9-587f-4afe-86b9-cea1fd0223e8.png)
 ![git](https://user-images.githubusercontent.com/43990877/215758384-e534f342-bd51-4a92-8bac-9d9b914360f7.png)
+
+# My repositories
+[LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
+
+[LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
