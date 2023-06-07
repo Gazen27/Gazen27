@@ -1,6 +1,5 @@
 # About me
-Hi, I'm Gianni! Full-Stack Developer and actually a Computer Science student at Napoli Università degli Studi Federico II.
-
+Hi, I'm Gianni! Full-Stack Developer and actually a Computer Science student at Napoli Università degli Studi Federico II.\
 I'm a huge nerd who loves videogames, comics/manga, anime, board games and collecting a lot of nerdy stuff.
 
 # Languages
