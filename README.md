@@ -7,7 +7,8 @@ I'm a huge nerd who loves videogames, comics/manga, anime, board games and colle
 ![cpp](https://user-images.githubusercontent.com/43990877/213594315-ccf437ad-3eff-4be0-9ffd-9dc9628c2d09.png)
 ![java](https://user-images.githubusercontent.com/43990877/213594324-66b39a47-6a62-4344-845d-d867bca4cdab.png)
 ![html](https://github.com/Gazen27/Gazen27/assets/43990877/e8384d80-4fcf-4249-86b2-0f700087b0e1)
-![css](https://github.com/Gazen27/Gazen27/assets/43990877/fa8305f9-719b-4331-a1ed-690e7c1e55cd)
+![css](https://github.com/Gazen27/Gazen27/assets/43990877/c609f3b3-9666-4287-b0a7-cf900c8b083f)
+
 
 
 # DBMS & Tools
