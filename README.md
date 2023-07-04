@@ -17,5 +17,8 @@ I'm a huge nerd who loves videogames, comics/manga, anime, board games and colle
 
 # My Repositories
 Some of the repository below may be private at the moment. Every repository is under the MIT license.
-> [LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)\
+> [LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
+
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
+
+> [Handouts](https://github.com/Gazen27/Handouts) - University handouts and documents. (Academic)
