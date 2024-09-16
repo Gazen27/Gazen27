@@ -17,3 +17,5 @@ Some of the repository below may be private at the moment. Every repository is u
 > [LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
 
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
+
+> [Handouts](https://github.com/Gazen27/Handouts) - Handouts and documentation made for academic purposes.
