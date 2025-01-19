@@ -14,8 +14,8 @@ I'm a huge nerd who loves videogames, comics, board games and collecting a lot o
 
 # My Repositories
 Some of the repository below may be private at the moment. Every repository is under the MIT license.
+> [INGSW-DietiEstates](https://github.com/Gazen27/INGSW-DietiEstates) - Placeholder (Academic project)
+
 > [OOBD-LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
 
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
-
-> [Handouts](https://github.com/Gazen27/Handouts) - Handouts and documentation made for academic purposes.
