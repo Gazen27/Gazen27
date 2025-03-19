@@ -6,7 +6,7 @@ I'm a huge nerd who loves videogames, comics, board games and collecting a lot o
 ![java](https://user-images.githubusercontent.com/43990877/213594324-66b39a47-6a62-4344-845d-d867bca4cdab.png)
 ![c](https://user-images.githubusercontent.com/43990877/213594305-b92e68b1-596d-484f-85fe-2727a776ee1b.png)
 ![cpp](https://user-images.githubusercontent.com/43990877/213594315-ccf437ad-3eff-4be0-9ffd-9dc9628c2d09.png)
-![js](https://github.com/user-attachments/assets/db5d84dd-771b-42c0-9742-f7e2ac939c85)
+![js](https://github.com/user-attachments/assets/9826444f-00b3-4f66-8993-050090eca6fa)
 
 
 # DBMS & Tools
