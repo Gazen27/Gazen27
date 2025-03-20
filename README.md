@@ -3,7 +3,7 @@ Hi, I'm Gianni! Full-Stack Developer and actually a Computer Science student at 
 I'm a huge nerd who loves videogames, comics, board games and collecting a lot of nerdy stuff.
 
 # Languages
-![java](https://github.com/user-attachments/assets/055b9403-7741-4ac7-9370-54a685a1e835)
+![java](https://github.com/user-attachments/assets/055b9403-7741-4ac7-9370-54a685a1e835 =100x100)
 ![cpp](https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9)
 ![javascript](https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06)
 
