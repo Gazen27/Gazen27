@@ -6,7 +6,7 @@ I'm a huge nerd who loves videogames, comics, board games and collecting a lot o
 <img src= "https://github.com/user-attachments/assets/055b9403-7741-4ac7-9370-54a685a1e835" width="150">
 <img src="https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9" width="125">
 <img src= "https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06" width="150" hspace=20>
-
+<img src= "https://github.com/user-attachments/assets/95cb7178-cc4e-4ba6-be9d-854d175b0290 width="150">
 
 
 # DBMS & Tools
