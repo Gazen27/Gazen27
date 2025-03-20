@@ -1,5 +1,6 @@
 # About me
-Hello world!\ Full-Stack Developer and Software Engineering Student at Napoli Università degli Studi Federico II.\
+Hello world!\
+Full-Stack Developer and Software Engineering Student at Napoli Università degli Studi Federico II.\
 I'm a huge nerd who loves videogames, comics, board games and collecting a lot of nerdy stuff.
 
 # Languages
