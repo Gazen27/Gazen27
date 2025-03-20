@@ -3,10 +3,10 @@ Hi, I'm Gianni! Full-Stack Developer and actually a Computer Science student at 
 I'm a huge nerd who loves videogames, comics, board games and collecting a lot of nerdy stuff.
 
 # Languages
-![java](https://user-images.githubusercontent.com/43990877/213594324-66b39a47-6a62-4344-845d-d867bca4cdab.png)
-![c](https://user-images.githubusercontent.com/43990877/213594305-b92e68b1-596d-484f-85fe-2727a776ee1b.png)
-![cpp](https://user-images.githubusercontent.com/43990877/213594315-ccf437ad-3eff-4be0-9ffd-9dc9628c2d09.png)
-![js](https://github.com/user-attachments/assets/dd2f2fe5-d87a-4d6a-b119-00ac1048361c)
+![java](https://github.com/user-attachments/assets/055b9403-7741-4ac7-9370-54a685a1e835)
+![cpp](https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9)
+![javascript](https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06)
+
 
 
 # DBMS & Tools
