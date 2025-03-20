@@ -12,7 +12,7 @@ I'm a huge nerd who loves videogames, comics, board games and collecting a lot o
 
 # DBMS & Tools
 <img src= "https://github.com/user-attachments/assets/3a614660-664d-4745-adc0-47e80b027031" width= "100">
-<img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "100" hspace= >
+<img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "100" hspace= 20>
 
 # My Repositories
 Some of the repository below may be private at the moment. Every repository is under the MIT license.
