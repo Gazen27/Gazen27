@@ -11,8 +11,8 @@ I'm a huge nerd who loves videogames, comics, board games and collecting a lot o
 
 
 # DBMS & Tools
-![postgresql](https://user-images.githubusercontent.com/43990877/213594344-2d9d8ec9-587f-4afe-86b9-cea1fd0223e8.png)
-![git](https://user-images.githubusercontent.com/43990877/215758384-e534f342-bd51-4a92-8bac-9d9b914360f7.png)
+<img src= "https://github.com/user-attachments/assets/3a614660-664d-4745-adc0-47e80b027031" width= "">
+<img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "" hspace= >
 
 # My Repositories
 Some of the repository below may be private at the moment. Every repository is under the MIT license.
