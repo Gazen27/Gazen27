@@ -6,7 +6,7 @@ I'm a huge nerd who loves videogames, comics, board games and collecting a lot o
 <img src= "https://github.com/user-attachments/assets/055b9403-7741-4ac7-9370-54a685a1e835" width="155">
 <img src="https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9" width="125">
 <img src= "https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06" width="150" hspace=20>
-<img src= "https://github.com/user-attachments/assets/0371c7b7-40a1-4dbe-b0f7-eb995373bbef)" width="115">
+<img src= "https://github.com/user-attachments/assets/0371c7b7-40a1-4dbe-b0f7-eb995373bbef" width="115">
 <img src= "https://github.com/user-attachments/assets/e5163b43-b978-47da-a15e-532a433c7529" width="115" hspace=20>
 
 
