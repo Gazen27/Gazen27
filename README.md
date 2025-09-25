@@ -1,7 +1,7 @@
 # About me
 Hello world!\
-I'm a Software Engineering Student at Università degli Studi di Napoli Federico II.\
-My biggest passion is playing and collecting videogames, along with coding. Yes, I know I'm a nerd.
+I'm a Software Engineering Student at Università degli Studi di Napoli Federico II,\
+but first of all, a videogames collector! (Yes, I know it's kinda nerdy.)
 
 # Languages
 <img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" width="90" align="top">
