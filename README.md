@@ -16,7 +16,7 @@ but first of all, a videogames collector! (Yes, I know it's kinda nerdy.)
 <img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "100" hspace=20>
 
 # My Repositories
-Some of the repository below may be private at the moment. Every repository is under the MIT license.
+Some of the repository below may be private at the moment. Every repository is under MIT license.
 > [OOBD-LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
 
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
