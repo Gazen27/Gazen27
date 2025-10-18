@@ -22,5 +22,3 @@ Some of the repositories below may be private at the moment. Every repository is
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
 
 > [SWE-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - Modern platform for bugs requests management. (Academic project)
-
-> [SlimeQuest](https://github.com/Gazen27/SWE-BugBoard) - A metroidvania about slimes and... slimes. (Game)
