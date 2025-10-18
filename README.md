@@ -1,7 +1,7 @@
 # About me
 Hello world!\
-I'm a Software Engineering Student at Università degli Studi di Napoli Federico II,\
-but first of all, a videogames collector! (Yes, I know it's kinda nerdy.)
+I'm a Software Engineering Student at Università degli Studi di Napoli Federico II;\
+my goal in life is becoming a Game Developer, since that I'm a huge videogames lover and collector!
 
 # Languages
 <img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" width="90" align="top">
@@ -22,3 +22,5 @@ Some of the repositories below may be private at the moment. Every repository is
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
 
 > [SWE-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - Modern platform for bugs requests management. (Academic project)
+
+> [SlimeQuest](https://github.com/Gazen27/SWE-BugBoard) - A metroidvania about slimes and... slimes. (Game)
