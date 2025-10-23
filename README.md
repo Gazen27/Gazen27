@@ -1,7 +1,10 @@
 # About me
 Hello world!\
-I'm a Software Engineering Student at Università degli Studi di Napoli Federico II;\
-my goal in life is becoming a Game Developer, since that I'm a huge videogames lover and collector!
+I'm a Software Engineering Student at Università degli Studi di Napoli Federico II - 
+my biggest goal in life is becoming a Game Developer, since that I'm a huge videogames lover and collector!
+Take a look to my social pages:
+- [Instagram](https://www.instagram.com/gazen27/)
+- [YouTube](https://www.youtube.com/@gazen27)
 
 # Languages
 <img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" width="90" align="top">
