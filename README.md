@@ -17,8 +17,8 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 
 # My Repositories
 Some of the repositories below may be private at the moment. Every repository is under MIT license.
-> [UNI-LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
+> [OBJ-LabManager](https://github.com/Gazen27/LabManager) - Platform for a Scientific Laboratory (Academic project)
 
-> [UNI-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
+> [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - Implementation of a C++ library set. (Academic project)
 
-> [UNI-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - Modern platform for bugs requests management. (Academic project)
+> [SWE-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - Modern platform for bugs requests management. (Academic project)
