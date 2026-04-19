@@ -1,6 +1,5 @@
 # About me
-Hello world! 👋
-
+Hello world! \\
 I'm a Software Engineering student at UniNA with a strong passion for game development.
 I'm a big videogames enthusiast and collector, and I aspire to become a Game Developer.
 Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
