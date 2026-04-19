@@ -1,8 +1,9 @@
 # About me
-Hello world!\
-I'm a Software Engineering Student at UniNA - 
-my biggest goal in life is becoming a Game Developer, since that I'm a huge videogames lover and collector!
+Hello world! 👋
+I'm a Software Engineering student at UniNA with a strong passion for game development.
+I'm a big videogames enthusiast and collector, and I aspire to become a Game Developer.
 Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
+
 # Languages
 <img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" width="90" align="top">
 <img src="https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9" width="95" hspace=20>
