@@ -1,6 +1,6 @@
 # About me
 Hello world!\
-I'm a Software Engineering Student at Università degli Studi di Napoli Federico II - 
+I'm a Software Engineering Student at UniNA - 
 my biggest goal in life is becoming a Game Developer, since that I'm a huge videogames lover and collector!
 Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 # Languages
