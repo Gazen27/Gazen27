@@ -20,4 +20,5 @@ Some of the repositories below may be private at the moment. Every repository is
 > [OBJ-LabManager](https://github.com/Gazen27/LabManager) - (Academic project) Platform for a Scientific Laboratory
 
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - (Academic project) Implementation of a C++ library set.
+
 > [SWE-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - (Academic project) Modern platform for bugs requests management.
