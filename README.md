@@ -17,7 +17,9 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 <img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "100" hspace=20>
 
 # My Repositories
-Some repositories below may be private at the moment. Every repository is under MIT license.
+Some repositories below may be private at the moment. Every repo is under MIT license.
+> [Snake](https://github.com/Gazen27/Snake) - (Personal project) A snake game entirely made using JavaScript only.
+
 > [OBJ-LabManager](https://github.com/Gazen27/LabManager) - (Academic project) Platform for a Scientific Laboratory
 
 > [LASD-Libraries](https://github.com/Gazen27/LASD-Libraries) - (Academic project) Implementation of a C++ library set.
