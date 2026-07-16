@@ -5,13 +5,14 @@ I'm a big videogames enthusiast and collector, aspiring to become a Game Develop
 Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 
 # Languages
-<img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" height="100">
-<img src="https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9" height="100">
-<img src= "https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06" height="100">
-<img src="https://github.com/user-attachments/assets/98f4d1fe-0fb4-47db-aab8-31e723ce42d7" height="100">
-<img src= "https://github.com/user-attachments/assets/0371c7b7-40a1-4dbe-b0f7-eb995373bbef" height="100">
-<img src= "https://github.com/user-attachments/assets/f5a5a17e-8dd8-4da4-a215-ee7c0de43ee5" height="100">
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/>
+</p>
 
 # DBMS & Tools
 <img src= "https://github.com/user-attachments/assets/3a614660-664d-4745-adc0-47e80b027031" width= "100">
