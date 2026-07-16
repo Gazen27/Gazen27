@@ -39,7 +39,7 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="95"/></a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="95"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="96"/></a>
   <!-- Prisma -->
   <a href="https://www.prisma.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="90"/></a>
