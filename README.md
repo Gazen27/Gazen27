@@ -5,12 +5,12 @@ I'm a big videogames enthusiast and collector, aspiring to become a Game Develop
 Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 
 # Languages
-<img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" width="90" align="top">
-<img src="https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9" width="95" hspace=20>
-<img src= "https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06" width="115">
-<img src="https://github.com/user-attachments/assets/98f4d1fe-0fb4-47db-aab8-31e723ce42d7" width="103">
-<img src= "https://github.com/user-attachments/assets/0371c7b7-40a1-4dbe-b0f7-eb995373bbef" width="90" hspace=20>
-<img src= "https://github.com/user-attachments/assets/f5a5a17e-8dd8-4da4-a215-ee7c0de43ee5" width="90">
+<img src= "https://github.com/user-attachments/assets/cc7d5d3e-40fb-4079-bb4d-59744434802e" width="100" height="60">
+<img src="https://github.com/user-attachments/assets/e6dddbac-b8f9-4d1c-bf5b-74d16e256cc9" width="100" height="60">
+<img src= "https://github.com/user-attachments/assets/f3904507-78e6-4ccf-91de-94320142db06" width="100" height="60">
+<img src="https://github.com/user-attachments/assets/98f4d1fe-0fb4-47db-aab8-31e723ce42d7" width="100" height="60">
+<img src= "https://github.com/user-attachments/assets/0371c7b7-40a1-4dbe-b0f7-eb995373bbef" width="100" height="60">
+<img src= "https://github.com/user-attachments/assets/f5a5a17e-8dd8-4da4-a215-ee7c0de43ee5" width="100" height="60">
 
 
 # DBMS & Tools
