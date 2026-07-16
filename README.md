@@ -15,9 +15,12 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 </p>
 
 # Frameworks & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img src= "https://github.com/user-attachments/assets/3a614660-664d-4745-adc0-47e80b027031" width= "100">
-<img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "100" hspace=20>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="100"/>
+</p>
 
 # My Repositories
 Some repositories below may be private at the moment. Every repo is under MIT license.
