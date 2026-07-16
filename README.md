@@ -8,19 +8,14 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100"/></a>
-  
   <!-- C++ -->
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100"/></a>
-  
   <!-- JavaScript -->
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/></a>&nbsp;
-  
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100"/></a>
-  
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100"/></a>
-  
   <!-- CSS3 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/></a>
 </p>
@@ -29,19 +24,14 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 <p align="left">
   <!-- Node.js -->
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="95"/></a>
-  
   <!-- Angular -->
   <a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="90"/></a>&nbsp;
-  
   <!-- Express.js -->
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="95"/></a>
-  
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="95"/></a>
-  
   <!-- Prisma -->
   <a href="https://www.prisma.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="90"/></a>
-  
   <!-- Git -->
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="95"/></a>
 </p>
