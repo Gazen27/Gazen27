@@ -14,7 +14,7 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/>
 </p>
 
-# DBMS & Tools
+# Frameworks & Tools
 <img src= "https://github.com/user-attachments/assets/3a614660-664d-4745-adc0-47e80b027031" width= "100">
 <img src= "https://github.com/user-attachments/assets/24ce28cd-11a5-45fb-acd0-c613ece7aa72" width= "100" hspace=20>
 
