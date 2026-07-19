@@ -50,7 +50,7 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 
 # My Repositories
 Some repositories below may be private at the moment. Every repo is under MIT license.
-> [Snake](https://github.com/Gazen27/Snake) - (Personal project) A snake game entirely made using JavaScript only.
+> [Snake](https://github.com/Gazen27/Snake) - A snake game entirely made using JavaScript only.
 
 > [TW-QuickSketch](https://github.com/Gazen27/TW-QuickSketch) - (Academic project) Web App based on users-sketch guessing. 
 
