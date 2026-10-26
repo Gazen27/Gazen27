@@ -58,4 +58,4 @@ Some repositories below may be private at the moment. Every repo is under MIT li
 
 > [OBJ-LabManager](https://github.com/Gazen27/LabManager) - (Academic project) Platform for a Scientific Laboratory.
 
-> [SWE-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - (Academic project) Modern platform for bugs requests management.
+> [SWE-BugBoard](https://github.com/Gazen27/SWE-BugBoard) - (Academic project) Modern platform for bug requests management.
