@@ -8,10 +8,10 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="95"/></a>
   <!-- C++ -->
   <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="95"/></a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="95"/></a>&nbsp;
@@ -30,7 +30,7 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 <p align="left">
   <!-- Node.js -->
   <a href="https://nodejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="95"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="90"/></a>
   <!-- Angular -->
   <a href="https://angular.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="90"/></a>&nbsp;
