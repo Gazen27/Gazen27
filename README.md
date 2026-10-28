@@ -33,7 +33,7 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="90"/></a>
   <!-- Angular -->
   <a href="https://angular.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="90"/></a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="85"/></a>&nbsp;
   <!-- Express.js -->
   <a href="https://expressjs.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="95"/></a>
