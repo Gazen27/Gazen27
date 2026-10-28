@@ -8,10 +8,10 @@ Take a look at my social pages [by clicking here!](https://linktr.ee/gazen27)
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="95"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="90"/></a>
   <!-- C++ -->
   <a href="https://isocpp.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="95"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90"/></a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="95"/></a>&nbsp;
